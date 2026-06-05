@@ -1,0 +1,14 @@
+pandas
+ipykernel
+notebook
+jupyterlab
+transformers
+accelerate
+sentencepiece
+sqlalchemy
+pyodbc
+tqdm
+matplotlib
+nvidia-ml-py
+bitsandbytes
+scipy

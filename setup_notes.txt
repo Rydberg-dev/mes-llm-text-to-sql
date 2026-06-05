@@ -1,0 +1,2 @@
+Run this before running the other scripts, this bypasses the script execution policy for the current PowerShell session:
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
